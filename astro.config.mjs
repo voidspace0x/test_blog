@@ -3,5 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  build: { outDir: 'dist' }
+  site: 'https://voidspace0x.github.io',
+  // build: { outDir: 'dist' }
 });
