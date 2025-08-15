@@ -4,6 +4,6 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://voidspace0x.github.io',
-  //base: '/test_blog/',
+  base: '/test_blog/',
   // build: { outDir: 'dist' }
 });
